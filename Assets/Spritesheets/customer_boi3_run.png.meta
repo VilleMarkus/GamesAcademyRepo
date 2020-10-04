@@ -1,31 +1,31 @@
 fileFormatVersion: 2
-guid: 437aedd209c823e4a88cfef1f3848756
+guid: 9656a8cca8adcd64fbdb63462e7404fd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4212212532434146279
-    second: customer_boi_run_spritesheet_0
+      213: 993681629985788196
+    second: customer_boi3_run_0
   - first:
-      213: 8611379216622654471
-    second: customer_boi_run_spritesheet_1
+      213: -8843125227260210169
+    second: customer_boi3_run_1
   - first:
-      213: 18585077553953675
-    second: customer_boi_run_spritesheet_2
+      213: -411083339801510916
+    second: customer_boi3_run_2
   - first:
-      213: 8101101755721277449
-    second: customer_boi_run_spritesheet_3
+      213: -4712108192598770932
+    second: customer_boi3_run_3
   - first:
-      213: 1464513472068363395
-    second: customer_boi_run_spritesheet_4
+      213: -8465356887918711303
+    second: customer_boi3_run_4
   - first:
-      213: 4461646866156573062
-    second: customer_boi_run_spritesheet_5
+      213: -8666111121597305684
+    second: customer_boi3_run_5
   - first:
-      213: 3289645949448815924
-    second: customer_boi_run_spritesheet_6
+      213: -2578251175103993386
+    second: customer_boi3_run_6
   - first:
-      213: -4425025347011950195
-    second: customer_boi_run_spritesheet_7
+      213: 917811830343072262
+    second: customer_boi3_run_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -125,7 +125,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: customer_boi_run_spritesheet_0
+      name: customer_boi3_run_0
       rect:
         serializedVersion: 2
         x: 0
@@ -139,14 +139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e39f222bf8c47a30800000000000000
-      internalID: 4212212532434146279
+      spriteID: 421522f7d244acd00800000000000000
+      internalID: 993681629985788196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: customer_boi_run_spritesheet_1
+      name: customer_boi3_run_1
       rect:
         serializedVersion: 2
         x: 96
@@ -160,14 +160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70499f0c5c3c18770800000000000000
-      internalID: 8611379216622654471
+      spriteID: 7041cdc6578e64580800000000000000
+      internalID: -8843125227260210169
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: customer_boi_run_spritesheet_2
+      name: customer_boi3_run_2
       rect:
         serializedVersion: 2
         x: 192
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8bf9b19707024000800000000000000
-      internalID: 18585077553953675
+      spriteID: cfbbc0661e98b4af0800000000000000
+      internalID: -411083339801510916
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: customer_boi_run_spritesheet_3
+      name: customer_boi3_run_3
       rect:
         serializedVersion: 2
         x: 288
@@ -202,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9006f071025ec6070800000000000000
-      internalID: 8101101755721277449
+      spriteID: c0b31fc809a3b9eb0800000000000000
+      internalID: -4712108192598770932
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: customer_boi_run_spritesheet_4
+      name: customer_boi3_run_4
       rect:
         serializedVersion: 2
         x: 384
@@ -223,14 +223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 384a8675e3ff25410800000000000000
-      internalID: 1464513472068363395
+      spriteID: 9fde2b603c2058a80800000000000000
+      internalID: -8465356887918711303
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: customer_boi_run_spritesheet_5
+      name: customer_boi3_run_5
       rect:
         serializedVersion: 2
         x: 480
@@ -244,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6815f7a9f24faed30800000000000000
-      internalID: 4461646866156573062
+      spriteID: cac612599d9cbb780800000000000000
+      internalID: -8666111121597305684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: customer_boi_run_spritesheet_6
+      name: customer_boi3_run_6
       rect:
         serializedVersion: 2
         x: 576
@@ -265,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43503bdcf8b27ad20800000000000000
-      internalID: 3289645949448815924
+      spriteID: 6d961366736383cd0800000000000000
+      internalID: -2578251175103993386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: customer_boi_run_spritesheet_7
+      name: customer_boi3_run_7
       rect:
         serializedVersion: 2
         x: 672
@@ -286,8 +286,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d89c04544e62792c0800000000000000
-      internalID: -4425025347011950195
+      spriteID: 60aff363ff8bcbc00800000000000000
+      internalID: 917811830343072262
       vertices: []
       indices: 
       edges: []
@@ -295,7 +295,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 0cbbc8332b53f064eb014a87012373e8
+    spriteID: c49831825f19555419b226f760a14053
     internalID: 0
     vertices: []
     indices: 
